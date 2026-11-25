@@ -1,0 +1,7 @@
+-- Badge 2FA & login alerts columns
+ALTER TABLE public.users
+  ADD COLUMN IF NOT EXISTS two_fa_enabled BOOLEAN NOT NULL DEFAULT FALSE,
+  ADD COLUMN IF NOT EXISTS login_alerts_enabled BOOLEAN NOT NULL DEFAULT FALSE,
+  ADD COLUMN IF NOT EXISTS two_fa_code VARCHAR(10),
+  ADD COLUMN IF NOT EXISTS two_fa_code_expires_at TIMESTAMPTZ,
+  ADD COLUMN IF NOT EXISTS last_login_at TIMESTAMPTZ;

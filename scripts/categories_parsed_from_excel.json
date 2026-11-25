@@ -1,0 +1,1425 @@
+[
+  {
+    "moduleName": "Mass Apps",
+    "catTable": "app_category",
+    "subTable": "app_sub_category",
+    "categories": [
+      {
+        "name": "Politics",
+        "french_name": "Politique"
+      },
+      {
+        "name": "Business",
+        "french_name": "Business"
+      },
+      {
+        "name": "Education",
+        "french_name": "Éducation"
+      },
+      {
+        "name": "E-Commerce",
+        "french_name": "E-Commerce"
+      },
+      {
+        "name": "Sports",
+        "french_name": "Sports"
+      },
+      {
+        "name": "Dating",
+        "french_name": "Mariage"
+      },
+      {
+        "name": "Lifestyle",
+        "french_name": "Style de Vie"
+      },
+      {
+        "name": "Finance",
+        "french_name": "Finance"
+      },
+      {
+        "name": "Entertainment",
+        "french_name": "Diverstissment"
+      },
+      {
+        "name": "Fitness & Health",
+        "french_name": "Fitness & Santé"
+      },
+      {
+        "name": "Beauty & Fashion",
+        "french_name": "Beauté & Fashion"
+      },
+      {
+        "name": "Grocery & Shopping",
+        "french_name": "Épicerie & Magasinage"
+      },
+      {
+        "name": "Art",
+        "french_name": "Art"
+      },
+      {
+        "name": "Gaming",
+        "french_name": "Jeux"
+      },
+      {
+        "name": "Multimedia",
+        "french_name": "Multimédia"
+      },
+      {
+        "name": "Science",
+        "french_name": "Science"
+      },
+      {
+        "name": "Tech & Innovation",
+        "french_name": "Tech & Innovation"
+      },
+      {
+        "name": "Culture",
+        "french_name": "Culture"
+      },
+      {
+        "name": "Religion",
+        "french_name": "Religion"
+      },
+      {
+        "name": "Kids",
+        "french_name": "Tout-Petits"
+      },
+      {
+        "name": "News",
+        "french_name": "Actualités"
+      },
+      {
+        "name": "Employment",
+        "french_name": "Emploi"
+      },
+      {
+        "name": "Vehicles",
+        "french_name": "Véhicules"
+      },
+      {
+        "name": "Tools & Devices",
+        "french_name": "Outils & Appareils"
+      },
+      {
+        "name": "Travel & Tourism",
+        "french_name": "Voyage & Tourisme"
+      },
+      {
+        "name": "Hobbies & Learnings",
+        "french_name": "Passion & Apprentissage"
+      },
+      {
+        "name": "Books",
+        "french_name": "Livres"
+      },
+      {
+        "name": "Videos",
+        "french_name": "Vidéos"
+      },
+      {
+        "name": "Photos",
+        "french_name": "Photos"
+      },
+      {
+        "name": "Social Medias & Networks",
+        "french_name": "Réseaux & Médias Sociaux"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "Recent Apps",
+        "french_name": "Applis Récentes"
+      },
+      {
+        "name": "Favorite",
+        "french_name": "Favoris"
+      },
+      {
+        "name": "Popular",
+        "french_name": "Populaires"
+      },
+      {
+        "name": "Local",
+        "french_name": "Locales"
+      },
+      {
+        "name": "App Stash",
+        "french_name": "Réserve d'applications"
+      }
+    ]
+  },
+  {
+    "moduleName": "Video-Mania",
+    "catTable": "video_category",
+    "subTable": "video_sub_category",
+    "categories": [
+      { "name": "Pranks", "french_name": "Blagues" },
+      { "name": "Comedy", "french_name": "Comédie" },
+      { "name": "Sketches", "french_name": "Sketches" },
+      { "name": "Tutorial", "french_name": "Tutoriels" },
+      { "name": "Challenges", "french_name": "Défis" },
+      { "name": "Vlogs", "french_name": "Vlogs" },
+      { "name": "Technology & AI", "french_name": "Technologie et IA" },
+      { "name": "Unboxing", "french_name": "Déballage" },
+      { "name": "Explainer", "french_name": "Vidéos explicatives" },
+      { "name": "Concerts", "french_name": "Concerts" },
+      { "name": "Cooking", "french_name": "Cuisine" },
+      { "name": "Travel", "french_name": "Voyages" },
+      { "name": "Fitness", "french_name": "Fitness" },
+      { "name": "Beauty & Fashion", "french_name": "Beauté et Mode" },
+      { "name": "DIY & Crafts", "french_name": "Bricolage et Artisanat" },
+      { "name": "Gaming", "french_name": "Jeux vidéo" },
+      { "name": "Animation", "french_name": "Animation" },
+      { "name": "Motivational", "french_name": "Motivation" },
+      { "name": "Storytelling", "french_name": "Récits" },
+      { "name": "Business", "french_name": "Affaires" },
+      { "name": "Social & Cultural", "french_name": "Social et Culturel" }
+    ],
+    "subcategories": [
+      {
+        "name": "Pi Vids",
+        "french_name": "Pi Vids"
+      },
+      {
+        "name": "4 - 23",
+        "french_name": "4 - 23"
+      },
+      {
+        "name": "24 – 65",
+        "french_name": "24 – 65"
+      },
+      {
+        "name": "66⁺",
+        "french_name": "66⁺"
+      },
+      {
+        "name": "Uncategorized",
+        "french_name": "Tout Autre…"
+      }
+    ]
+  },
+  {
+    "moduleName": "Pic Tours",
+    "catTable": "pic_category",
+    "subTable": "pic_sub_category",
+    "categories": [
+      {
+        "name": "Funny",
+        "french_name": "Créativité"
+      },
+      {
+        "name": "People",
+        "french_name": "Véhicules"
+      },
+      {
+        "name": "Creativity",
+        "french_name": "Outils & Appareils"
+      },
+      {
+        "name": "Vehicles",
+        "french_name": "Mariage"
+      },
+      {
+        "name": "Tools & Devices",
+        "french_name": "Exotique"
+      },
+      {
+        "name": "Wedding",
+        "french_name": "Divertissement"
+      },
+      {
+        "name": "Exotic",
+        "french_name": "Célébrités"
+      },
+      {
+        "name": "Entertainment",
+        "french_name": "Animaux"
+      },
+      {
+        "name": "Celebrities",
+        "french_name": "Technologies"
+      },
+      {
+        "name": "Animals",
+        "french_name": "Souvenirs"
+      },
+      {
+        "name": "Technologies",
+        "french_name": "Beauté & Mode"
+      },
+      {
+        "name": "Memories",
+        "french_name": "Art"
+      },
+      {
+        "name": "Beauty & Fashion",
+        "french_name": "Voyage & Tourisme"
+      },
+      {
+        "name": "Art",
+        "french_name": "Nature"
+      },
+      {
+        "name": "Tavel & Tourism",
+        "french_name": "Science"
+      },
+      {
+        "name": "Nature",
+        "french_name": "Alimentation"
+      },
+      {
+        "name": "Science",
+        "french_name": "People"
+      },
+      {
+        "name": "Food",
+        "french_name": "Sports"
+      },
+      {
+        "name": "Sports",
+        "french_name": "Drôle"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "Selfy",
+        "french_name": "Selfy"
+      },
+      {
+        "name": "Portrait",
+        "french_name": "Portrait"
+      },
+      {
+        "name": "Pano",
+        "french_name": "Pano"
+      },
+      {
+        "name": "Uncategorized",
+        "french_name": "Toute Autre…"
+      }
+    ]
+  },
+  {
+    "moduleName": "On-News",
+    "catTable": "news_category",
+    "subTable": "news_sub_category",
+    "categories": [
+      {
+        "name": "News",
+        "french_name": "News"
+      },
+      {
+        "name": "Politics",
+        "french_name": "Politics"
+      },
+      {
+        "name": "Business",
+        "french_name": "Business"
+      },
+      {
+        "name": "Art",
+        "french_name": "Art"
+      },
+      {
+        "name": "Tech & Innovation",
+        "french_name": "Tech & Innovation"
+      },
+      {
+        "name": "Culture",
+        "french_name": "Culture"
+      },
+      {
+        "name": "Religion Trending",
+        "french_name": "Religion Trending"
+      },
+      {
+        "name": "Lifestyle",
+        "french_name": "Lifestyle"
+      },
+      {
+        "name": "Entertainment",
+        "french_name": "Entertainment"
+      },
+      {
+        "name": "Education",
+        "french_name": "Education"
+      },
+      {
+        "name": "Sports",
+        "french_name": "Sports"
+      },
+      {
+        "name": "Finance",
+        "french_name": "Finance"
+      },
+      {
+        "name": "Fitness & Health",
+        "french_name": "Fitness & Health"
+      },
+      {
+        "name": "Beauty & Fashion",
+        "french_name": "Beauty & Fashion"
+      },
+      {
+        "name": "Productivity",
+        "french_name": "Productivity"
+      },
+      {
+        "name": "Books",
+        "french_name": "Books"
+      },
+      {
+        "name": "Travel & Tourism",
+        "french_name": "Travel & Tourism"
+      },
+      {
+        "name": "Multimedia",
+        "french_name": "Multimedia"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "English",
+        "french_name": "Anglais"
+      },
+      {
+        "name": "French",
+        "french_name": "Français"
+      },
+      {
+        "name": "Spanish",
+        "french_name": "Espagnol"
+      },
+      {
+        "name": "Portuguese",
+        "french_name": "Portuguais"
+      },
+      {
+        "name": "Germanic",
+        "french_name": "Allemand"
+      },
+      {
+        "name": "Italian",
+        "french_name": "Italien"
+      },
+      {
+        "name": "Russian",
+        "french_name": "Russie"
+      },
+      {
+        "name": "Ukrainian",
+        "french_name": "Ukrainienà"
+      },
+      {
+        "name": "Polish",
+        "french_name": "Polonais"
+      },
+      {
+        "name": "Serbian",
+        "french_name": "Serbe"
+      },
+      {
+        "name": "Bulgarian",
+        "french_name": "Bulgare"
+      },
+      {
+        "name": "Romanian",
+        "french_name": "Romanain"
+      },
+      {
+        "name": "Mandarin",
+        "french_name": "Mandarin"
+      },
+      {
+        "name": "Hindi",
+        "french_name": "Hindou"
+      },
+      {
+        "name": "Urdu",
+        "french_name": "Urdu"
+      },
+      {
+        "name": "Bengali",
+        "french_name": "Bengali"
+      },
+      {
+        "name": "Indonesian",
+        "french_name": "Indonésien"
+      },
+      {
+        "name": "Korean",
+        "french_name": "Koréen"
+      },
+      {
+        "name": "Japanese",
+        "french_name": "Japonais"
+      },
+      {
+        "name": "Arabic",
+        "french_name": "Arabe"
+      },
+      {
+        "name": "Persian",
+        "french_name": "Perse"
+      },
+      {
+        "name": "Turkish",
+        "french_name": "Turque"
+      },
+      {
+        "name": "Hebrew",
+        "french_name": "Hébreu"
+      },
+      {
+        "name": "Farsi",
+        "french_name": "Farsi"
+      },
+      {
+        "name": "Kurdish",
+        "french_name": "Kurde"
+      }
+    ]
+  },
+  {
+    "moduleName": "Open-Letters",
+    "catTable": "disc_category",
+    "subTable": "disc_sub_category",
+    "categories": [
+      {
+        "name": "Politics",
+        "french_name": "Politics"
+      },
+      {
+        "name": "Gouvernance",
+        "french_name": "Gouvernance"
+      },
+      {
+        "name": "Business & Finance",
+        "french_name": "Business & Finance"
+      },
+      {
+        "name": "Education",
+        "french_name": "Education"
+      },
+      {
+        "name": "War & Security",
+        "french_name": "War & Security"
+      },
+      {
+        "name": "Science & Innovation",
+        "french_name": "Science & Innovation"
+      },
+      {
+        "name": "Art & Culture",
+        "french_name": "Art & Culture"
+      },
+      {
+        "name": "Beauty & Fashion",
+        "french_name": "Beauty & Fashion"
+      },
+      {
+        "name": "Infrastructure Development",
+        "french_name": "Infrastructure Development"
+      },
+      {
+        "name": "Multimedia",
+        "french_name": "Multimedia"
+      },
+      {
+        "name": "Entertainment",
+        "french_name": "Entertainment"
+      },
+      {
+        "name": "Showbiz",
+        "french_name": "Showbiz"
+      },
+      {
+        "name": "Social Welfare",
+        "french_name": "Social Welfare"
+      },
+      {
+        "name": "Project Management",
+        "french_name": "Project Management"
+      },
+      {
+        "name": "Women Empowment",
+        "french_name": "Women Empowment"
+      },
+      {
+        "name": "Fitness & Health",
+        "french_name": "Fitness & Health"
+      },
+      {
+        "name": "Religion",
+        "french_name": "Religion"
+      },
+      {
+        "name": "Energy",
+        "french_name": "Energy"
+      },
+      {
+        "name": "Water",
+        "french_name": "Water"
+      },
+      {
+        "name": "Culture",
+        "french_name": "Culture"
+      },
+      {
+        "name": "Immigration",
+        "french_name": "Immigration"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "Public (General)",
+        "french_name": "Public (General)"
+      },
+      {
+        "name": "Public (aux Autorités, Célébrités, Leaders)",
+        "french_name": "Public (aux Autorités, Célébrités, Leaders)"
+      },
+      {
+        "name": "Privé (aux Amis, Pairs, Followers)",
+        "french_name": "Privé (aux Amis, Pairs, Followers"
+      },
+      {
+        "name": "Privé (aux Autorités, Célébrités, Leaders)",
+        "french_name": "Privé (aux Autorités, Célébrités, Leaders)"
+      }
+    ]
+  },
+  {
+    "moduleName": "Q & A / QAFI",
+    "catTable": "qafi_category",
+    "subTable": "qafi_sub_category",
+    "categories": [
+      {
+        "name": "Politics",
+        "french_name": "Politics"
+      },
+      {
+        "name": "Business",
+        "french_name": "Business"
+      },
+      {
+        "name": "Lifestyle",
+        "french_name": "Lifestyle"
+      },
+      {
+        "name": "Entertainment",
+        "french_name": "Entertainment"
+      },
+      {
+        "name": "Education",
+        "french_name": "Education"
+      },
+      {
+        "name": "Sports",
+        "french_name": "Sports"
+      },
+      {
+        "name": "Finance",
+        "french_name": "Finance"
+      },
+      {
+        "name": "Fitness & Health",
+        "french_name": "Fitness & Health"
+      },
+      {
+        "name": "Beauty & Fashion",
+        "french_name": "Beauty & Fashion"
+      },
+      {
+        "name": "Art",
+        "french_name": "Art"
+      },
+      {
+        "name": "Travel & Tourism",
+        "french_name": "Travel & Tourism"
+      },
+      {
+        "name": "Gaming",
+        "french_name": "Gaming"
+      },
+      {
+        "name": "Multimedia",
+        "french_name": "Multimedia"
+      },
+      {
+        "name": "Science",
+        "french_name": "Science"
+      },
+      {
+        "name": "Tech & Innovation",
+        "french_name": "Tech & Innovation"
+      },
+      {
+        "name": "Culture",
+        "french_name": "Culture"
+      },
+      {
+        "name": "Religion",
+        "french_name": "Religion"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "English",
+        "french_name": "Anglais"
+      },
+      {
+        "name": "French",
+        "french_name": "Français"
+      },
+      {
+        "name": "Spanish",
+        "french_name": "Espagnol"
+      },
+      {
+        "name": "Portuguese",
+        "french_name": "Portuguais"
+      },
+      {
+        "name": "Germanic",
+        "french_name": "Allemand"
+      },
+      {
+        "name": "Italian",
+        "french_name": "Italien"
+      },
+      {
+        "name": "Russian",
+        "french_name": "Russie"
+      },
+      {
+        "name": "Ukrainian",
+        "french_name": "Ukrainien"
+      },
+      {
+        "name": "Polish",
+        "french_name": "Polonais"
+      },
+      {
+        "name": "Serbian",
+        "french_name": "Serbe"
+      },
+      {
+        "name": "Bulgarian",
+        "french_name": "Bulgare"
+      },
+      {
+        "name": "Romanian",
+        "french_name": "Romanain"
+      },
+      {
+        "name": "Mandarin",
+        "french_name": "Mandarin"
+      },
+      {
+        "name": "Hindi",
+        "french_name": "Hindou"
+      },
+      {
+        "name": "Urdu",
+        "french_name": "Urdu"
+      },
+      {
+        "name": "Bengali",
+        "french_name": "Bengali"
+      },
+      {
+        "name": "Indonesian",
+        "french_name": "Indonésien"
+      },
+      {
+        "name": "Korean",
+        "french_name": "Koréen"
+      },
+      {
+        "name": "Japanese",
+        "french_name": "Japonais"
+      },
+      {
+        "name": "Arabic",
+        "french_name": "Arabe"
+      },
+      {
+        "name": "Persian",
+        "french_name": "Perse"
+      },
+      {
+        "name": "Turkish",
+        "french_name": "Turque"
+      },
+      {
+        "name": "Hebrew",
+        "french_name": "Hébreu"
+      },
+      {
+        "name": "Farsi",
+        "french_name": "Farsi"
+      },
+      {
+        "name": "Kurdish",
+        "french_name": "Kurde"
+      }
+    ]
+  },
+  {
+    "moduleName": "CVE / GEBC",
+    "catTable": "gebc_category",
+    "subTable": "gebc_sub_category",
+    "categories": [
+      {
+        "name": "Frequently Used",
+        "french_name": "Frequently Used"
+      },
+      {
+        "name": "Smiley & Emotion",
+        "french_name": "Smiley & Emotion"
+      },
+      {
+        "name": "People & Body",
+        "french_name": "People & Body"
+      },
+      {
+        "name": "Animals & Nature",
+        "french_name": "Animals & Nature"
+      },
+      {
+        "name": "Food & Drink",
+        "french_name": "Food & Drink"
+      },
+      {
+        "name": "Travels & Places",
+        "french_name": "Travels & Places"
+      },
+      {
+        "name": "Objects",
+        "french_name": "Objects"
+      },
+      {
+        "name": "Symbols",
+        "french_name": "Symbols"
+      },
+      {
+        "name": "Flags",
+        "french_name": "Flags"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "Thoughts & Ideas",
+        "french_name": "Pensées & Idées"
+      },
+      {
+        "name": "Emotion s & Feelings",
+        "french_name": "Émotions s & Sentiments"
+      },
+      {
+        "name": "Actions & Reactions",
+        "french_name": "Actions & Réactions"
+      },
+      {
+        "name": "Objects & Places",
+        "french_name": "Objets & Lieux"
+      }
+    ]
+  },
+  {
+    "moduleName": "Sports & Sports",
+    "catTable": "sports_category",
+    "subTable": "sport_sub_category",
+    "categories": [
+      {
+        "name": "Football",
+        "french_name": "Football"
+      },
+      {
+        "name": "Basketball",
+        "french_name": "Basketball"
+      },
+      {
+        "name": "Hockey",
+        "french_name": "Hockey"
+      },
+      {
+        "name": "Volleyball",
+        "french_name": "Volleyball"
+      },
+      {
+        "name": "Tennis",
+        "french_name": "Tennis"
+      },
+      {
+        "name": "Boxing",
+        "french_name": "Boxing"
+      },
+      {
+        "name": "Wrestling",
+        "french_name": "Wrestling"
+      },
+      {
+        "name": "Judo",
+        "french_name": "Judo"
+      },
+      {
+        "name": "Karate",
+        "french_name": "Karate"
+      },
+      {
+        "name": "Swimming",
+        "french_name": "Swimming"
+      },
+      {
+        "name": "Snowboarding",
+        "french_name": "Snowboarding"
+      },
+      {
+        "name": "Surfing",
+        "french_name": "Surfing"
+      },
+      {
+        "name": "Car Racing",
+        "french_name": "Car Racing"
+      },
+      {
+        "name": "Road Cycling",
+        "french_name": "Road Cycling"
+      },
+      {
+        "name": "Equestrian",
+        "french_name": "Equestrian"
+      },
+      {
+        "name": "Skiing",
+        "french_name": "Skiing"
+      },
+      {
+        "name": "Ice Hockey",
+        "french_name": "Ice Hockey"
+      },
+      {
+        "name": "Motorcycle Racing",
+        "french_name": "Motorcycle Racing"
+      },
+      {
+        "name": "Track & Field",
+        "french_name": "Track & Field"
+      },
+      {
+        "name": "Skateboarding",
+        "french_name": "Skateboarding"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "Europe",
+        "french_name": "Europe"
+      },
+      {
+        "name": "Americas",
+        "french_name": "Les Amériques"
+      },
+      {
+        "name": "Asia",
+        "french_name": "Asie"
+      },
+      {
+        "name": "Afrique",
+        "french_name": "Afrique"
+      }
+    ]
+  },
+  {
+    "moduleName": "Cinematic",
+    "catTable": "cinematics_category",
+    "subTable": "cinematics_sub_category",
+    "categories": [
+      {
+        "name": "Detectives",
+        "french_name": "Detectives"
+      },
+      {
+        "name": "Comedy",
+        "french_name": "Comedy"
+      },
+      {
+        "name": "Thrillers",
+        "french_name": "Thrillers"
+      },
+      {
+        "name": "Crime",
+        "french_name": "Crime"
+      },
+      {
+        "name": "Romantic",
+        "french_name": "Romantic"
+      },
+      {
+        "name": "Action",
+        "french_name": "Action"
+      },
+      {
+        "name": "Drama",
+        "french_name": "Drama"
+      },
+      {
+        "name": "Hooror",
+        "french_name": "Hooror"
+      },
+      {
+        "name": "War",
+        "french_name": "War"
+      },
+      {
+        "name": "Classic",
+        "french_name": "Classic"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "Hollywood  European  Latin-American  Movies",
+        "french_name": "Films Hollywoodiens, Européens et Latino-américains"
+      },
+      {
+        "name": "Bollywood  Chinese  Japanese  and Asian Movies",
+        "french_name": "Films Bollywoodiens  Chinois  Japonais et Asiatiques"
+      },
+      {
+        "name": "Nollywood and African Movies",
+        "french_name": "Films Nollywoodiens et Africains"
+      },
+      {
+        "name": "Arabic  Persian  Turkish and Middle-East Movies",
+        "french_name": "Films Arabes  Perse Turques et Moyen-Orientaux"
+      }
+    ]
+  },
+  {
+    "moduleName": "Fan-Star Zone",
+    "catTable": "fan_star_category",
+    "subTable": "fan_star_sub_category",
+    "categories": [
+      {
+        "name": "Sports",
+        "french_name": "Sports"
+      },
+      {
+        "name": "Showbiz",
+        "french_name": "Showbiz"
+      },
+      {
+        "name": "Multimedia",
+        "french_name": "Multimedia"
+      },
+      {
+        "name": "Business",
+        "french_name": "Business"
+      },
+      {
+        "name": "Politics",
+        "french_name": "Politics"
+      },
+      {
+        "name": "Art & Tech",
+        "french_name": "Art & Tech"
+      },
+      {
+        "name": "Religion",
+        "french_name": "Religion"
+      },
+      {
+        "name": "Science & Innovation",
+        "french_name": "Science & Innovation"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "Latest Stories",
+        "french_name": "Nouveautés"
+      },
+      {
+        "name": "Joy & Fun",
+        "french_name": "Ambiance & Amusement"
+      },
+      {
+        "name": "Photos & Images",
+        "french_name": "Photos & Images"
+      },
+      {
+        "name": "Uncategorized",
+        "french_name": "Toute Autre…"
+      }
+    ]
+  },
+  {
+    "moduleName": "Kid-Vids",
+    "catTable": "kid_vids_category",
+    "subTable": "kid_vids_sub_category",
+    "categories": [
+      {
+        "name": "Art & Craft",
+        "french_name": "Art & Craft"
+      },
+      {
+        "name": "Toys & Play",
+        "french_name": "Toys & Play"
+      },
+      {
+        "name": "Learning & Hobbies",
+        "french_name": "Learning & Hobbies"
+      },
+      {
+        "name": "Show &",
+        "french_name": "Show &"
+      },
+      {
+        "name": "Cartoon",
+        "french_name": "Cartoon"
+      },
+      {
+        "name": "Music & Dance",
+        "french_name": "Music & Dance"
+      },
+      {
+        "name": "Gaming",
+        "french_name": "Gaming"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "English",
+        "french_name": "Anglais"
+      },
+      {
+        "name": "French",
+        "french_name": "Français"
+      },
+      {
+        "name": "Spanish",
+        "french_name": "Espagnol"
+      },
+      {
+        "name": "Uncategorized",
+        "french_name": "Toute Autre…"
+      }
+    ]
+  },
+  {
+    "moduleName": "TV ProgMax",
+    "catTable": "tv_progmax_category",
+    "subTable": "tv_progmax_sub_category",
+    "categories": [
+      {
+        "name": "English",
+        "french_name": "English"
+      },
+      {
+        "name": "French",
+        "french_name": "French"
+      },
+      {
+        "name": "Spanish",
+        "french_name": "Spanish"
+      },
+      {
+        "name": "Portuguese",
+        "french_name": "Portuguese"
+      },
+      {
+        "name": "Germanic",
+        "french_name": "Germanic"
+      },
+      {
+        "name": "Italian",
+        "french_name": "Italian"
+      },
+      {
+        "name": "Russian",
+        "french_name": "Russian"
+      },
+      {
+        "name": "Ukrainian",
+        "french_name": "Ukrainian"
+      },
+      {
+        "name": "Polish",
+        "french_name": "Polish"
+      },
+      {
+        "name": "Serbian",
+        "french_name": "Serbian"
+      },
+      {
+        "name": "Bulgarian",
+        "french_name": "Bulgarian"
+      },
+      {
+        "name": "Romanian",
+        "french_name": "Romanian"
+      },
+      {
+        "name": "Mandarin",
+        "french_name": "Mandarin"
+      },
+      {
+        "name": "Hindi",
+        "french_name": "Hindi"
+      },
+      {
+        "name": "Urdu",
+        "french_name": "Urdu"
+      },
+      {
+        "name": "Arabic",
+        "french_name": "Arabic"
+      },
+      {
+        "name": "Persian",
+        "french_name": "Persian"
+      },
+      {
+        "name": "Turkish",
+        "french_name": "Turkish"
+      },
+      {
+        "name": "Hebrew",
+        "french_name": "Hebrew"
+      },
+      {
+        "name": "Farsi",
+        "french_name": "Farsi"
+      },
+      {
+        "name": "Kurdish",
+        "french_name": "Kurdish"
+      },
+      {
+        "name": "Bengali",
+        "french_name": "Bengali"
+      },
+      {
+        "name": "Indonesian",
+        "french_name": "Indonesian"
+      },
+      {
+        "name": "Korean",
+        "french_name": "Korean"
+      },
+      {
+        "name": "Japanese",
+        "french_name": "Japanese"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "News",
+        "french_name": "TV ProgMax"
+      },
+      {
+        "name": "Shows & Series",
+        "french_name": "Fil d'Actualités"
+      },
+      {
+        "name": "Debates & Interviews",
+        "french_name": "Shows & Séries Télévisuelles"
+      },
+      {
+        "name": "Uncategorized",
+        "french_name": "Débats & Interviews"
+      }
+    ]
+  },
+  {
+    "moduleName": "Learnings & Hobbies",
+    "catTable": "learning_hobbies_category",
+    "subTable": "learning_hobbies_sub_category",
+    "categories": [
+      {
+        "name": "Art",
+        "french_name": "Art"
+      },
+      {
+        "name": "Science & Tech",
+        "french_name": "Science & Tech"
+      },
+      {
+        "name": "Maths",
+        "french_name": "Maths"
+      },
+      {
+        "name": "Business",
+        "french_name": "Business"
+      },
+      {
+        "name": "Health",
+        "french_name": "Santé"
+      },
+      {
+        "name": "Social Studies",
+        "french_name": "Sciences Sociales"
+      },
+      {
+        "name": "Humanities",
+        "french_name": "Sciences Humaines"
+      },
+      {
+        "name": "Religion Languages",
+        "french_name": "Religion"
+      },
+      {
+        "name": "Langues",
+        "french_name": "Langues"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "English",
+        "french_name": "Anglais"
+      },
+      {
+        "name": "French",
+        "french_name": "Français"
+      },
+      {
+        "name": "Spanish",
+        "french_name": "Espagnol"
+      },
+      {
+        "name": "Portuguese",
+        "french_name": "Portuguais"
+      },
+      {
+        "name": "Germanic",
+        "french_name": "Allemand"
+      },
+      {
+        "name": "Italian",
+        "french_name": "Italien"
+      },
+      {
+        "name": "Russian",
+        "french_name": "Russie"
+      },
+      {
+        "name": "Ukrainian",
+        "french_name": "Ukrainien"
+      },
+      {
+        "name": "Polish",
+        "french_name": "Polonais"
+      },
+      {
+        "name": "Serbian",
+        "french_name": "Serbe"
+      },
+      {
+        "name": "Bulgarian",
+        "french_name": "Bulgare"
+      },
+      {
+        "name": "Romanian",
+        "french_name": "Romanain"
+      },
+      {
+        "name": "Mandarin",
+        "french_name": "Mandarin"
+      },
+      {
+        "name": "Hindi",
+        "french_name": "Hindou"
+      },
+      {
+        "name": "Urdu",
+        "french_name": "Urdu"
+      },
+      {
+        "name": "Bengali",
+        "french_name": "Bengali"
+      },
+      {
+        "name": "Indonesian",
+        "french_name": "Indonésien"
+      },
+      {
+        "name": "Korean",
+        "french_name": "Koréen"
+      },
+      {
+        "name": "Japanese",
+        "french_name": "Japonais"
+      },
+      {
+        "name": "Arabic",
+        "french_name": "Arabe"
+      },
+      {
+        "name": "Persian",
+        "french_name": "Perse"
+      },
+      {
+        "name": "Turkish",
+        "french_name": "Turque"
+      },
+      {
+        "name": "Hebrew",
+        "french_name": "Hébreu"
+      },
+      {
+        "name": "Farsi",
+        "french_name": "Farsi"
+      },
+      {
+        "name": "Kurdish",
+        "french_name": "Kurde"
+      }
+    ]
+  },
+  {
+    "moduleName": "Mondo Market",
+    "catTable": "item_category",
+    "subTable": "item_sub_category",
+    "categories": [
+      {
+        "name": "Europe",
+        "french_name": "Europe"
+      },
+      {
+        "name": "Africa",
+        "french_name": "Afrique"
+      },
+      {
+        "name": "Americas",
+        "french_name": "Les Amériques"
+      },
+      {
+        "name": "Asia",
+        "french_name": "Asie"
+      },
+      {
+        "name": "Middle-East",
+        "french_name": "Moyent-Orient"
+      }
+    ],
+    "subcategories": [
+      {
+        "name": "Phone & Electronics",
+        "french_name": "Téléphone & Électronique"
+      },
+      {
+        "name": "Vehicles & Parts",
+        "french_name": "Véhicules & Pièces Détachées"
+      },
+      {
+        "name": "Clotthing & Related Items",
+        "french_name": "Habillement & Accessoires"
+      },
+      {
+        "name": "Uncategorized",
+        "french_name": "Tout Autre…"
+      }
+    ]
+  }
+]

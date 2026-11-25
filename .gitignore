@@ -1,0 +1,37 @@
+node_modules/
+.env
+
+# Environment locals
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files (macOS — breaks Coolify/Nixpacks if committed)
+.DS_Store
+__MACOSX/
+._*
+
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build / coverage
+dist/
+build/
+coverage/
+
+# Uploaded media
+uploads/
+
+# Local scripts for uploading/syncing media to live server
+scripts/upload*
+scripts/sync*
+scripts/fast_sync*
+scripts/inspect*
+scripts/*.py
